@@ -1,7 +1,7 @@
 # Install Cacti 2024 Debian 12
 
 ```
-wget https://raw.githubusercontent.com/beryindo/Install-Cacti-2024-Debian-12/main/install_cacti.sh
+wget https://raw.githubusercontent.com/mm1rza/Install-Cacti-2024-Debian-12/main/install_cacti.sh
 ```
 ```
 chmod +x install_cacti.sh
